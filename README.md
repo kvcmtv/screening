@@ -21,7 +21,10 @@
 We can have multiple people in one role or one person fill multiple roles.
 
 ## Tasks
-Please see https://github.com/users/oofdere/projects/1
+Tasks are divided into the following groups:
+ - [Graphics](https://github.com/kvcmtv/screening/projects/1)
+ - [Engineering](https://github.com/kvcmtv/screening/projects/2)
+ - [Processing](https://github.com/kvcmtv/screening/projects/4)
 
 If something is missing, please get in touch via Canvas.
 
